@@ -1,0 +1,35 @@
+body{
+display : block;
+margin-right : 25%;
+margin-left : 25%;
+}
+
+.idi{
+text-decoration : underline;
+}
+
+.fou{
+content: "";
+display: inline-block;
+width: 1em;
+height: 1em;
+margin-left: .2em;
+margin-right: .2em;
+background-color: #444;
+}
+
+.image{
+float : left;
+width : 40%;
+overflow  : hidden;
+margin-right : 1em;
+}
+
+.suit{
+float : left;
+width : 55%;
+}
+
+footer{
+text-indent : both;
+}
